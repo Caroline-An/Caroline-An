@@ -1,4 +1,4 @@
-### Oiee! Eu sou a Caroline-An 👋
+### Oi! Eu sou a Caroline 👋
 
 - 🔭 Estudando: phyton e php
 - ✨ Tenho facilidade com banco de dados
