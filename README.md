@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Caroline 👋
 
 - 🔭 Estudando: phyton e php
-- ✨ Tenho facilidade com banco de dados
+- ✨ Tenho facilidade com banco de dados MySQL e PostgreSQL
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
 - 😄 Pronomes: ela/dela
 
