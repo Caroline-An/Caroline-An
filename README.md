@@ -3,7 +3,7 @@
 - 🔭 Estudando: phyton e php
 - ✨ Tenho facilidade com banco de dados MySQL e PostgreSQL
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
-- 😄 Pronomes: ela/dela
+- 😄 Estudante do IFbaiano GBI
 
 <div align="center">
   <a href="https://github.com/Caroline-An">
