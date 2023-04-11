@@ -1,9 +1,10 @@
 ### Oi! Eu sou a Caroline 👋
 
-- 🔭 Estudando: phyton e php
+- 🔭 Estudando: Scratch e Desenvolvimento Mobile
+- 🎨 Trabalhando com: Front-end
 - ✨ Tenho facilidade com banco de dados MySQL e PostgreSQL
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
-- 😄 Estudante do IFbaiano GBI
+- 😄 Estudante do Instituto Federal Baiano - Campus Guanambi
 
 <div align="center">
   <a href="https://github.com/Caroline-An">
