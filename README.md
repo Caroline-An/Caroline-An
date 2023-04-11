@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/lollynie/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:quionesan260@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/ana-caroline-silva-nogueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://scratch.mit.edu/users/Lollynie/" target="_blank"> <img src="https://img.icons8.com/cute-clipart/512/scratch.png" target="_blank"></a> 
+  <a href="https://scratch.mit.edu/users/Lollynie/" target="_blank"> <img height="30" width="40" src="https://img.icons8.com/cute-clipart/512/scratch.png" target="_blank"></a> 
   
 </div>
 
