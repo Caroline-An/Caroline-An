@@ -1,11 +1,11 @@
-### Oi! Eu sou a Caroline 👋
+## Oi! Eu sou a Caroline 👋
 
 - 🔭 Estudando: Scratch e Desenvolvimento Mobile
 - ✨ Tenho facilidade com banco de dados MySQL e PostgreSQL
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
 - 😄 Estudante do Instituto Federal Baiano - Campus Guanambi
 
-# 🎨 Trabalhando com: 
+### 🎨 Estou trabalhando com: 
 - Front-end;
 - Desenvolvimento de um Seriou-game na plataforma Scratch para ensinar conceitos básicos de lógica de programação a pessoas com TDAH;
 - Desenvolvimento dos recursos visuais para o game.
