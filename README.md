@@ -3,7 +3,7 @@
 - 🔭 Estudando: Scratch e Desenvolvimento Mobile
 - ✨ Tenho facilidade com banco de dados MySQL e PostgreSQL
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
-- 😄 Estudante do Instituto Federal Baiano - Campus Guanambi
+- 👩‍🎓 Graduada em ADS pelo Instituto Federal Baiano - Campus Guanambi
 
 ### 🎨 Estou trabalhando com: 
 - Front-end;
