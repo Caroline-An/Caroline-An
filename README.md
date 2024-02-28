@@ -4,7 +4,7 @@
 - ✨ Tenho facilidade com banco de dados MySQL e PostgreSQL
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
 - 👩‍🎓 Graduada em ADS pelo Instituto Federal Baiano - Campus Guanambi
-
+======================================================================================================================================================================================
 <div align="center">
   <a href="https://github.com/Caroline-An">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caroline-An&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
