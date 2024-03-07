@@ -7,9 +7,8 @@
 
 ### 🎨 Estou trabalhando com: 
 - Front-end;
-- Desenvolvimento de um Seriou-game na plataforma Scratch para ensinar conceitos básicos de lógica de programação a pessoas com TDAH;
-- Desenvolvimento dos recursos visuais para o game.
-
+- Análise de dados para praticar;
+  
 <div align="center">
   <a href="https://github.com/Caroline-An">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caroline-An&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
