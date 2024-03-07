@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Caroline 👋
 
-- 🔭 Estudando: Scratch e Desenvolvimento Mobile
+- 🔭 Estudando: Análise de dados
 - ✨ Tenho facilidade com banco de dados MySQL e PostgreSQL
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
 - 👩‍🎓 Graduada em ADS pelo Instituto Federal Baiano - Campus Guanambi
