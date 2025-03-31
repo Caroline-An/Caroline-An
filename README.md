@@ -1,13 +1,14 @@
 ## Oi! Eu sou a Caroline 👋
 
-- 🔭 Estudando: Análise de dados
-- ✨ Tenho facilidade com banco de dados MySQL e PostgreSQL
+- 🔭 Estudando: React
+- ✨ Tenho facilidade com banco de dado
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
+- 👩‍🎓 Pós-graduada em Ciência de Dados pela Uniaselvi
 - 👩‍🎓 Graduada em ADS pelo Instituto Federal Baiano - Campus Guanambi
 
 ### 🎨 Estou trabalhando com: 
 - Front-end;
-- Análise de dados para praticar;
+- Criação de sistemas com React e Tailwind para praticar.
   
 <div align="center">
   <a href="https://github.com/Caroline-An">
