@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Caroline 👋
 
 - 🔭 Estudando: React
-- ✨ Tenho facilidade com banco de dado
+- ✨ Tenho facilidade com banco de dados
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
 - 👩‍🎓 Pós-graduada em Ciência de Dados pela Uniaselvi
 - 👩‍🎓 Graduada em ADS pelo Instituto Federal Baiano - Campus Guanambi
