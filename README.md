@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Caroline 👋
 
-- 🔭 Estudando: React
+- 🔭 Estudando: Testes End to End
 - ✨ Tenho facilidade com banco de dados
 - 📫 Me encontre no e-mail: anacarolinesn@outlook.com
 - 👩‍🎓 Pós-graduada em Ciência de Dados pela Uniaselvi
